@@ -2,7 +2,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Paytone+One&display=swap" rel="stylesheet">
 
-/play crickets 
+</play crickets >
 
 
 <h1 style:"font-family: 'Paytone One', sans-serif;"> Hi Everyone 🌸 </h1>
