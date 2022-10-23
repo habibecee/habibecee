@@ -1,25 +1,25 @@
-### Hi there 👋
+<h1> Hi Everyone 🌸 </h1>
 
-🙋‍♀️ Hi, I'm a Frontend Developer especiallly interested in React.js. 
+<h2> 🙋‍♀️ Hi, I'm a Frontend Developer especiallly interested in React.js.  </br>
 
-👩‍💻 As of September 2022, I have 5 months of experience working on developing websites and apps mainly using React.js both individually and also as a team. 
+👩‍💻 As of September 2022, I have 5 months of experience working on developing websites and apps mainly using React.js both individually and also as a team. </br> 
 
-🕴 I aim to continue my career being a Frontend and React Developer and also develop myself further in this field. 
+🕴 I aim to continue my career being a Frontend and React Developer and also develop myself further in this field. </br>
 
-🪪 You can see my portfolio, my progress in this field and all of my projects I made on my github.
+🪪 You can see my portfolio, my progress in this field and all of my projects I made on my github. </h2> </br>
 
-🧙🏽‍♀️ Have a good day 🧙🏽‍♀️
+<h3> 🧙🏽‍♀️ Have a good day 🧙🏽‍♀️ </h3> </br>
 
 
-⭐️  HTML
-⭐️  CSS
-⭐️  JAVASCRIPT
-⭐️  REACT
-⭐️  REDUX
-⭐️  BOOTSTRAP
-⭐️  MATERIAL UI
-⭐️  SEMANTIC UI
-⭐️  TAILWIND
-⭐️  REACT NATIVE
-⭐️  TYPESCRIPT
-⭐️  SCSS
+⭐️  HTML </br>
+⭐️  CSS </br>
+⭐️  JAVASCRIPT </br>
+⭐️  REACT </br>
+⭐️  REDUX </br>
+⭐️  BOOTSTRAP </br>
+⭐️  MATERIAL UI </br>
+⭐️  SEMANTIC UI </br>
+⭐️  TAILWIND </br>
+⭐️  REACT NATIVE </br>
+⭐️  TYPESCRIPT </br>
+⭐️  SCSS </br>
