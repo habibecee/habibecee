@@ -2,10 +2,10 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Paytone+One&display=swap" rel="stylesheet">
 
-</play crickets >
 
 
-<h1 style:"font-family: 'Paytone One', sans-serif;"> Hi Everyone 🌸 </h1>
+
+<h1 style:"font-family: 'Paytone One', sans-serif;" /play crickets > Hi Everyone 🌸 </h1>
 
 <h2 style:"font-family: 'Paytone One', sans-serif;">> 🙋‍♀️ Hi, I'm a Frontend Developer especiallly interested in React.js.  </br>
 
