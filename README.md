@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**habibecee/habibecee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙋‍♀️ Hi, I'm a Frontend Developer especiallly interested in React.js. 
 
-Here are some ideas to get you started:
+👩‍💻 As of September 2022, I have 5 months of experience working on developing websites and apps mainly using React.js both individually and also as a team. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🕴 I aim to continue my career being a Frontend and React Developer and also develop myself further in this field. 
+
+🪪 You can see my portfolio, my progress in this field and all of my projects I made on my github.
+
+🧙🏽‍♀️ Have a good day 🧙🏽‍♀️
+
+
+⭐️  HTML
+⭐️  CSS
+⭐️  JAVASCRIPT
+⭐️  REACT
+⭐️  REDUX
+⭐️  BOOTSTRAP
+⭐️  MATERIAL UI
+⭐️  SEMANTIC UI
+⭐️  TAILWIND
+⭐️  REACT NATIVE
+⭐️  TYPESCRIPT
+⭐️  SCSS
