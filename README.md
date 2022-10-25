@@ -21,8 +21,9 @@
 ⭐️  MATERIAL UI </br>
 ⭐️  SEMANTIC UI </br>
 ⭐️  TAILWIND </br>
-⭐️  REACT NATIVE </br>
 ⭐️  TYPESCRIPT </br>
 ⭐️  SCSS </br>
+
+⭐🔜  REACT NATIVE </br>
 
 </p>
