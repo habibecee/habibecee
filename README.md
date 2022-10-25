@@ -1,7 +1,7 @@
 
-<h1 /play crickets > Hi Everyone 🌸 </h1>
+<h1 >  🙋‍♀️ Hi Everyone 🌸 </h1>
 
-<h2> 🙋‍♀️ Hi, I'm a Frontend Developer especiallly interested in React.js.  </br>
+<h2> I'm a Frontend Developer especiallly interested in React.js.  </br>
 
 👩‍💻 As of September 2022, I have 5 months of experience working on developing websites and apps mainly using React.js both individually and also as a team. </br> 
 
