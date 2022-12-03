@@ -6,24 +6,30 @@
    🙋‍♀️ Hi Everyone 🌸
 </h1>
 
-<p> 🌎 I'm a React Frontend Developer </p> </br> </br>  </br> 
+<h3> 🌎 I'm a Frontend Developer especiallly interested in React.js </h3> </br> 
+
+<h4>
+👩‍💻 I have working experience on developing websites and apps mainly using React.js both individually and also as a team since May 2022. </br> 
+🕴 I aim to continue my career being a Frontend and React Developer and also develop myself further in this field. </br> 
+</h4> </br> </br> 
 
 <p >
-⭐️  HTML </br>
-⭐️  CSS </br> 
+⭐️  HTML5 </br>
+⭐️  CSS3 </br> 
 ⭐️  JAVASCRIPT </br>
 ⭐️  REACT </br>
 ⭐️  REDUX </br>
+⭐️  REDUX TOOLKIT </br>
 ⭐️  BOOTSTRAP </br>
 ⭐️  MATERIAL UI </br>
 ⭐️  SEMANTIC UI </br>
 ⭐️  TAILWIND </br>
 ⭐️  TYPESCRIPT </br>
-⭐️  SCSS </br>
+⭐️  SASS-SCSS </br>
 
 ⭐🔜  REACT NATIVE </br>
 
-</p>  </br>  </br> 
+</p>  </br>  
 
 
 <div id="badges">
