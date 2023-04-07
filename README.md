@@ -66,6 +66,13 @@
 
 
 
+
+
+
+<h1 > 🧙🏽‍♀️ Have a good day 🧙🏽‍♀️ </h1> </br>
+
+
+
 <details>
   <summary>More👇🏻</summary>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=habibecee&show_icons=true&locale=en" alt="habibecee" /></p>
@@ -75,13 +82,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibecee&label=Profile%20views&color=0e75b6&style=flat" alt="habibecee" /> </p>
 
 </details>
-
-
-<h1 > 🧙🏽‍♀️ Have a good day 🧙🏽‍♀️ </h1> </br>
-
-
-
-<div>
-  <img src="https://komarev.com/ghpvc/?username=habibecee&style=flat-square&color=blue" alt=""/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</div>  </br>  </br> 
