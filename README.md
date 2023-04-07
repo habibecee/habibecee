@@ -20,9 +20,9 @@
  
 
 <div id="badges" align="center">
-  <p align="center"> You can find my CV and all related links on my Linkedin profile 👉🏻 👉🏻 👉🏻 
+  <p align="left"> You can find my CV and all related links on my Linkedin profile 👉🏻 👉🏻 👉🏻 
   <a href="https://www.linkedin.com/in/habibe-b-7427a4248/" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" align="center"/>
   </a>
     </p>
 </div>  </br>  </br> 
