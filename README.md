@@ -17,12 +17,14 @@
 🕴 I aim to continue my career being a React Frontend Developer and also develop myself further in this field. </br> 
 </h4> </br> </br> 
 
-<h4>👇🏻👇🏻👇🏻 You can find my CV and all related links on my Linkedin profile 👇🏻👇🏻👇🏻 </h4> </br> </br>
+ 
 
 <div id="badges" align="center">
+  <p align="center"> You can find my CV and all related links on my Linkedin profile 👉🏻 👉🏻 👉🏻 
   <a href="https://www.linkedin.com/in/habibe-b-7427a4248/" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
+    </p>
 </div>  </br>  </br> 
 
 
