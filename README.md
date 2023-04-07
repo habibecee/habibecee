@@ -19,8 +19,8 @@
 
 <h4>👇🏻👇🏻👇🏻 You can find my CV and all related links on my Linkedin profile 👇🏻👇🏻👇🏻 </h4> </br> </br>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/habibe-b-7427a4248/">
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/habibe-b-7427a4248/" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
 </div>  </br>  </br> 
@@ -64,15 +64,6 @@
 
 
 
-
-<div>
-  <img src="https://komarev.com/ghpvc/?username=habibecee&style=flat-square&color=blue" alt=""/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</div>  </br>  </br> 
-
-
-
-
 <details>
   <summary>More👇🏻</summary>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=habibecee&show_icons=true&locale=en" alt="habibecee" /></p>
@@ -85,3 +76,10 @@
 
 
 <h1 > 🧙🏽‍♀️ Have a good day 🧙🏽‍♀️ </h1> </br>
+
+
+
+<div>
+  <img src="https://komarev.com/ghpvc/?username=habibecee&style=flat-square&color=blue" alt=""/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</div>  </br>  </br> 
