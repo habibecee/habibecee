@@ -1,10 +1,10 @@
 <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="100px"/> 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=7149C6&width=550&height=45&lines=I'm+Habibe+🌎) <br><br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=150&color=7149C6&width=750&height=80&lines=I'm+Habibe+🌎) <br><br>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=39B5E0&width=550&height=45&lines=I'm+Frontend+Developer;I+interested+in+React+and+React+Native)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=150&color=39B5E0&width=700&height=70&lines=I'm+Frontend+Developer;I+interested+in+React+and+React+Native)
 <br><br><br><br>
 
 
