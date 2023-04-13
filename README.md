@@ -1,15 +1,16 @@
-<img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="100px"/> ✨  Welcome to my Github Profile ✨  <br><br>
+<img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="100px"/> 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=BA90C6&width=550&height=45&lines=I'm+Habibe+🌎) <br><br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=7149C6&width=550&height=45&lines=I'm+Habibe+🌎) <br><br>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=C0DBEA&width=550&height=45&lines=I'm+Frontend+Developer;I+interested+in+React+and+React+Native)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=39B5E0&width=550&height=45&lines=I'm+Frontend+Developer;I+interested+in+React+and+React+Native)
 <br><br><br><br>
 
 
+# ✨  Welcome to my Github Profile ✨  <br><br><br><br>
 
-# 💫 About Me:
+## 💫 About Me:
 👩‍💻 I'm improving my skills and knowledge as a Frontend Developer.<br> 
 🕴 I'm deepening my knowledge of various Frontend technologies while also continuing to explore React and React Native <br>
 📫 How to reach me: habibe.ce1996@gmail.com. <br><br><br><br>
@@ -20,7 +21,7 @@
  </br>  </br><br><br><br>
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) </br>
@@ -52,13 +53,13 @@
   <summary>More👇🏻</summary>
 
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=habibecee&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=habibecee&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=habibecee&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=habibecee&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
@@ -72,5 +73,5 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=576CBC&width=550&height=45&lines=🧙+Have+a+good+day+🧙)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=FFED00&width=550&height=45&lines=🧙+Have+a+good+day+🧙)
 <br><br>
