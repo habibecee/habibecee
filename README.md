@@ -3,11 +3,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=32&center=true&duration=6000&pause=150&color=FF6D28&width=750&height=100&lines=I'm+Habibe+🌎) <br><br>
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=28&duration=6000&pause=150&color=332FD0&width=375&height=90&lines=I'm+Frontend+Developer;I'm+interested+in+React+and+React+Native?color=EA047E)
-
-
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=28&center=true&duration=6000&pause=150&color=EA047E&width=700&height=90&lines=I'm+Frontend+Developer;I+interested+in+React+and+React+Native)
 
 <br><br>
 
