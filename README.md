@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="100px"/> ## ✨  Welcome to my Github Profile ✨  <br><br>
+<img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="100px"/> ✨  Welcome to my Github Profile ✨  <br><br>
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=BA90C6&width=550&height=45&lines=I'm+Habibe+🌎) <br><br>
