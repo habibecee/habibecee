@@ -4,12 +4,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=6000&pause=150&color=7149C6&width=750&height=80&lines=I'm+Habibe+🌎) <br><br>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&lines=I%27m+Frontend+Developer;color:332FD0&center=true)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&lines=I%27m+interested+in+React+and+React+Native;color:EA047E&center=true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&color:332FD0&center=true&duration=6000&pause=150&width=750&height=80&lines=I'm+Frontend+Developer;) <br><br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&color:EA047E&center=true&duration=6000&pause=150&width=750&height=80&lines=I'm+interested+in+React+and+React+Native;)
 
 
 
-<br><br><br><br>
+<br><br>
 
 
 # ✨  Welcome to my Github Profile ✨  <br><br><br><br>
