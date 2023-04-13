@@ -1,9 +1,6 @@
-<div id="header" align="center">
-  
-</div>
+### <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="80px"/><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> <br><br>
 
-### <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="80"/> 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> ;
+
 ### I'm Habibe 🌎 
 
 
