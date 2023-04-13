@@ -1,9 +1,7 @@
-<img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="100px"/> 
 
+<img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="100px"/>  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=32&center=true&duration=6000&pause=150&color=FF6D28&width=750&height=100&lines=I'm+Habibe+🌎) <br><br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=32&center=true&duration=6000&pause=150&color=FF6D28&width=750&height=100&lines=I'm+Habibe+🌎) <br><br>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=28&center=true&duration=6000&pause=150&color=EA047E&width=700&height=90&lines=I'm+Frontend+Developer;I+interested+in+React+and+React+Native)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=28&center=true&duration=6000&pause=150&color=EA047E&width=700&height=90&lines=I'm+Frontend+Developer+especially+interested+in+React+and+React+Native)
 
 <br><br>
 
@@ -13,6 +11,7 @@
 ## 💫 About Me:
 👩‍💻 I'm improving my skills and knowledge as a Frontend Developer.<br> 
 🕴 I'm deepening my knowledge of various Frontend technologies while also continuing to explore React and React Native <br>
+🎩  I’m looking to collaborate on interesting projects and startups  <br>
 📫 How to reach me: habibe.ce1996@gmail.com. <br><br><br><br>
  
 
