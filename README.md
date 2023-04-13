@@ -16,7 +16,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=F8E1F4&width=1200&height=40&lines=🎩+I’m+looking+to+collaborate+on+interesting+projects+and+startups)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=22&duration=6000&pause=30000&color=F8E1F4&width=1200&height=60&lines=📫+How+to+reach+me:👇🏻👇🏻👇🏻)
-### 🪧 habibe.ce1996@gmail.com <br><br><br>
+<h6> 🪧 habibe.ce1996@gmail.com </h6> <br><br><br>
  
 
 ## 🌐 Socials:
