@@ -7,7 +7,7 @@
 <br><br>
 
 
-# ✨  Welcome to my Github Profile ✨  <br><br><br><br>
+# <span style="color:#FF6363">✨  Welcome to my Github Profile ✨</span> <br><br><br><br>
 
 ## 💫 About Me:
 👩‍💻 I'm improving my skills and knowledge as a Frontend Developer.<br> 
