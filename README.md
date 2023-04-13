@@ -1,11 +1,11 @@
 ### <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="80px"/> <br><br>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=BA90C6&width=550&height=45&lines=I'm+Habibe+🌎)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=BA90C6&width=550&height=45&lines=I'm+Habibe+🌎) <br><br>
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=C0DBEA&width=550&height=45&lines=I'm+Frontend+Developer;I+interested+in+React+and+React+Native)
-<br><br>
+<br><br><br><br>
 
 
 ## ✨  Welcome to my Github Profile ✨
@@ -13,12 +13,12 @@
 # 💫 About Me:
 👩‍💻 I'm improving my skills and knowledge as a Frontend Developer.<br> 
 🕴 I'm deepening my knowledge of various Frontend technologies while also continuing to explore React and React Native <br>
-📫 How to reach me: habibe.ce1996@gmail.com
+📫 How to reach me: habibe.ce1996@gmail.com. <br><br><br><br>
  
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habibe-b-7427a4248/)
- </br>  </br> 
+ </br>  </br><br><br><br>
 
 
 # 💻 Tech Stack:
@@ -45,11 +45,9 @@
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) <br><br><br><br>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=576CBC&width=550&height=45&lines=🧙+Have+a+good+day+🧙)
-<br><br>
 
 <details>
   <summary>More👇🏻</summary>
@@ -71,4 +69,9 @@
 [![](https://visitcount.itsvg.in/api?id=habibecee&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-</details>
+</details> <br><br><br><br>
+
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=576CBC&width=550&height=45&lines=🧙+Have+a+good+day+🧙)
+<br><br>
