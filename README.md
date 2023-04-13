@@ -1,5 +1,7 @@
 
-<img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="90px"/> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&center=true&duration=8000&pause=400&color=7027A0&width=750&height=100&lines=I'm+Habibe+🌎) 
+<img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="90px"/> <br> 
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&center=true&duration=8000&pause=400&color=7027A0&width=750&height=100&lines=I'm+Habibe+🌎) 
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=30&center=true&duration=6000&pause=10000&color=FF4848&width=1100&height=90&lines=I'm+Frontend+Developer+especially+interested+in+React+and+React+Native)
