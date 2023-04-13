@@ -1,10 +1,10 @@
 ### <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="80px"/> <br><br>
 
 
-### I'm Habibe 🌎 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=BA90C6&width=550&height=45&lines=I'm+Habibe+🌎)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=35B7F1&width=550&height=45&lines=I'm+Frontend+Developer;I+interested+in+React+and+React+Native) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=C0DBEA&width=550&height=45&lines=I'm+Frontend+Developer;I+interested+in+React+and+React+Native)
 <br><br>
 
 
@@ -21,7 +21,7 @@
  </br>  </br> 
 
 
- <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <p >
 ⭐️  HTML5 </br>
