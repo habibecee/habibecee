@@ -1,11 +1,11 @@
 <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="100px"/> 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=26&center=true&duration=6000&pause=150&color=FF6D28&width=750&height=80&lines=I'm+Habibe+🌎) <br><br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=32&center=true&duration=6000&pause=150&color=FF6D28&width=750&height=100&lines=I'm+Habibe+🌎) <br><br>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&center=true&duration=6000&pause=150&color=332FD0&width=750&height=80&lines=I'm+Frontend+Developer;) <br><br>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&center=true&duration=6000&pause=150&color=EA047E&width=750&height=80&lines=I'm+interested+in+React+and+React+Native;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=28&center=true&duration=6000&pause=150&color=332FD0&width=750&height=90&lines=I'm+Frontend+Developer;) <br><br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=28&center=true&duration=6000&pause=150&color=EA047E&width=750&height=90&lines=I'm+interested+in+React+and+React+Native;)
 
 
 
