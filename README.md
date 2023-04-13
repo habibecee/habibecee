@@ -1,31 +1,27 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="100"/>
+  
 </div>
 
-<h1>
-   🙋🏼‍♀️ Hi Everyone 🌸
-</h1>
+### <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="80"/> 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> ;
+### I'm Habibe 🌎 
 
-<h1>
-  ✨  Welcome to my Github Profile ✨
-</h1>
 
-<h3> 🌎 I'm a Frontend Developer especiallly interested in **React.JS** and **React Native** </h3> </br> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=35B7F1&width=550&height=45&lines=I'm+Frontend+Developer;I+interested+in+React+and+React+Native)]
+<br><br>
 
-<h4>
-👩‍💻 I have working experience on developing websites and apps mainly using React.js both individually and also as a team since May 2022. </br> 
-🕴 I aim to continue my career being a React Frontend Developer and also develop myself further in this field. </br> 
-</h4> </br> </br> 
 
+### ✨  Welcome to my Github Profile ✨
+
+# 💫 About Me:
+👩‍💻 I'm improving my skills and knowledge as a Frontend Developer.<br> 
+🕴 I'm deepening my knowledge of various Frontend technologies while also continuing to explore React and React Native <br>
+📫 How to reach me: habibe.ce1996@gmail.com
  
 
-<div id="badges" align="center">
-  <p align="left"> You can find my CV and all related links on my Linkedin profile 👉🏻 👉🏻 👉🏻 
-  <a href="https://www.linkedin.com/in/habibe-b-7427a4248/" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" align="center"/>
-  </a>
-    </p>
-</div>  </br>  </br> 
+## 🌐 Socials:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habibe-b-7427a4248/)
+ </br>  </br> 
 
 
  <h3 align="left">Languages and Tools:</h3>
@@ -44,28 +40,35 @@
 ⭐️  TYPESCRIPT </br>
 ⭐️  SASS-SCSS </br>
 
-⭐🔜  REACT NATIVE </br>
+⭐⭐⭐  REACT NATIVE </br>
 
 </p>  </br>  
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="50" height="50"/>&nbsp;
-  
-</div>  </br>  </br> 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) </br>
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) </br>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) </br>
 
 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
+![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 	
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) </br>
 
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
 
@@ -75,10 +78,25 @@
 
 <details>
   <summary>More👇🏻</summary>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=habibecee&show_icons=true&locale=en" alt="habibecee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habibecee&" alt="habibecee" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=habibecee&label=Profile%20views&color=0e75b6&style=flat" alt="habibecee" /> </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=habibecee&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=habibecee&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=habibecee&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=habibecee&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=habibecee&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=habibecee&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 </details>
