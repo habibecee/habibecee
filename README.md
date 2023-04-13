@@ -4,7 +4,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=6000&pause=150&color=7149C6&width=750&height=80&lines=I'm+Habibe+🌎) <br><br>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=6000&pause=150&color=39B5E0&width=700&height=70&lines=I'm+Frontend+Developer;font=Fira+Code&size=24&duration=6000&pause=150&color=EA047E&width=700&height=70&lines=I+interested+in+React+and+React+Native)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=6000&pause=150&color=39B5E0&width=700&height=70&lines=I'm+Frontend+Developer?font=Fira+Code&size=24&duration=6000&pause=150&color=EA047E&width=700&height=70&lines=I+interested+in+React+and+React+Native)
 <br><br><br><br>
 
 
