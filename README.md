@@ -4,7 +4,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=6000&pause=150&color=7149C6&width=750&height=80&lines=I'm+Habibe+🌎) <br><br>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=6000&pause=150&width=700&height=70&lines=<span style="font-family:'Kalam', cursive;color:#332FD0">I'm Frontend Developer;</span><span style="font-family:'Kalam', cursive;color:#EA047E">I'm interested in React and React Native</span>)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&lines=I%27m+Frontend+Developer;color:332FD0&center=true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&lines=I%27m+interested+in+React+and+React+Native;color:EA047E&center=true)
+
 
 
 <br><br><br><br>
