@@ -6,8 +6,7 @@
 
 <br><br>
 
-
- <h1 style="color:#FF6363;">✨ Welcome to my Github Profile ✨</h1> <br><br><br><br>
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=28&duration=7000&pause=150&color=FF6363&width=900&height=90&lines=✨+Welcome+to+my+Github+Profile+✨) <br><br><br><br>
 
 ## 💫 About Me:
 👩‍💻 I'm improving my skills and knowledge as a Frontend Developer.<br> 
