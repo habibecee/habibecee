@@ -1,12 +1,12 @@
 
-<img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="100px"/>  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=32&center=true&duration=6000&pause=150&color=FF6D28&width=750&height=100&lines=I'm+Habibe+🌎) <br><br><br><br>
+<img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="100px"/>  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&center=true&duration=6000&pause=150&color=FF6D28&width=750&height=100&lines=I'm+Habibe+🌎) <br><br><br><br>
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=28&center=true&duration=7000&pause=150&color=EA047E&width=900&height=90&lines=I'm+Frontend+Developer+especially+interested+in+React+and+React+Native)
 
 <br><br>
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=28&duration=7000&pause=150&color=FF6363&width=900&height=90&lines=✨+Welcome+to+my+Github+Profile+✨) <br><br><br><br>
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=28&duration=7000&pause=150&color=FF6363&width=900&height=90&lines=✨+Welcome+to+my+Github+Profile+✨) <br><br><br><br>
 
 ## 💫 About Me:
 👩‍💻 I'm improving my skills and knowledge as a Frontend Developer.<br> 
