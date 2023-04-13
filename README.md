@@ -4,7 +4,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=6000&pause=150&color=7149C6&width=750&height=80&lines=I'm+Habibe+🌎) <br><br>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&width=700&height=70&color=332FD0&lines=%20I'm%20Frontend%20Developer++++++++++++++++++++%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A&color=EA047E&lines=%20I'm%20interested%20in%20React%20and%20React%20Native%0A%0A%0A%0A%0A%0A%0A%0A%0A)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=332FD0&size=24&vCenter=true&width=700&height=70&lines=%20I'm%20Frontend%20Developer++++++++++++++++++++%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A
+
 
 
 <br><br><br><br>
