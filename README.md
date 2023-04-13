@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="80px"/><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> <br><br>
+<div> ### <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="80px"/><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> </div> <br><br>
 
 
 ### I'm Habibe 🌎 
