@@ -11,7 +11,7 @@
 ## 💫 About Me:
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=F8E1F4&width=1200&height=40&lines=👩‍+I'm+improving+my+skills+and+knowledge+as+a+Frontend+Developer.)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=F8E1F4&width=1200&height=40&lines=🕴+I'm+deepening+my+knowledge+of+various+Frontend+technologies+while+also+continuing+to+explore+React+and+React+Native)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=F8E1F4&width=1300&height=40&lines=🕴+I'm+deepening+my+knowledge+of+various+Frontend+technologies+while+also+continuing+to+explore+React+and+React+Native)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=F8E1F4&width=900&height=40&lines=🎩+I’m+looking+to+collaborate+on+interesting+projects+and+startups)
 
