@@ -1,12 +1,12 @@
 
-<img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="90px"/> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&center=true&duration=8000&pause=400&color=7027A0&width=750&height=100&lines=I'm+Habibe+🌎) <br><br><br><br>
+<img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="90px"/> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&center=true&duration=8000&pause=400&color=7027A0&width=750&height=100&lines=I'm+Habibe+🌎) 
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=32&center=true&duration=6000&pause=10000&color=FF4848&width=900&height=90&lines=I'm+Frontend+Developer+especially+interested+in+React+and+React+Native)
 
-<br><br>
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=9000&pause=1500&color=9AB3F5&width=900&height=90&lines=✨+Welcome+to+my+Github+Profile+✨) <br><br><br><br>
+
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=9000&pause=1500&color=9AB3F5&width=900&height=90&lines=✨+Welcome+to+my+Github+Profile+✨) 
 
 ## 💫 About Me:
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=28&duration=6000&pause=30000&color=F8E1F4&width=1200&height=50&lines=👩‍+I'm+improving+my+skills+and+knowledge+as+a+Frontend+Developer.)
@@ -15,7 +15,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=28&duration=6000&pause=30000&color=F8E1F4&width=900&height=50&lines=🎩+I’m+looking+to+collaborate+on+interesting+projects+and+startups)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=28&duration=6000&pause=30000&color=F8E1F4&width=900&height=50&lines=📫+How+to+reach+me:+👇🏻)<br> 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=28&duration=6000&pause=30000&color=F8E1F4&width=900&height=50&lines=📫+How+to+reach+me:+👇🏻) 
 
  <span> 🪧 habibe.ce1996@gmail.com </span><br><br><br>
  
