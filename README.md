@@ -8,7 +8,7 @@
 <br><br>
 
 
-### ✨  Welcome to my Github Profile ✨
+## ✨  Welcome to my Github Profile ✨
 
 # 💫 About Me:
 👩‍💻 I'm improving my skills and knowledge as a Frontend Developer.<br> 
@@ -20,26 +20,6 @@
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habibe-b-7427a4248/)
  </br>  </br> 
 
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p >
-⭐️  HTML5 </br>
-⭐️  CSS3 </br> 
-⭐️  JAVASCRIPT </br>
-⭐️  REACT </br>
-⭐️  REDUX </br>
-⭐️  REDUX TOOLKIT </br>
-⭐️  BOOTSTRAP </br>
-⭐️  MATERIAL UI </br>
-⭐️  SEMANTIC UI </br>
-⭐️  TAILWIND </br>
-⭐️  TYPESCRIPT </br>
-⭐️  SASS-SCSS </br>
-
-⭐⭐⭐  REACT NATIVE </br>
-
-</p>  </br>  
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -68,10 +48,8 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-
-<h1 > 🧙🏽‍♀️ Have a good day 🧙🏽‍♀️ </h1> </br>
-
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=576CBC&width=550&height=45&lines=🧙+Have+a+good+day+🧙)
+<br><br>
 
 <details>
   <summary>More👇🏻</summary>
@@ -88,9 +66,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=habibecee&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=habibecee&icon=0&color=0)](https://visitcount.itsvg.in)
