@@ -1,7 +1,7 @@
 
 <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="90px"/> <br> 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&center=true&duration=8000&pause=400&color=7027A0&width=750&height=100&lines=I'm+Habibe+🌎) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&center=true&duration=8000&pause=400&color=F36A7B&width=750&height=100&lines=I'm+Habibe+🌎) 
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=30&center=true&duration=6000&pause=10000&color=FF4848&width=1100&height=90&lines=I'm+Frontend+Developer+especially+interested+in+React+and+React+Native)
@@ -11,9 +11,9 @@
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=9000&pause=1500&color=9AB3F5&width=900&height=90&lines=✨+Welcome+to+my+Github+Profile+✨) 
 
 ## 💫 About Me:
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=FF5D9E&width=1200&height=40&lines=👩‍+I'm+improving+my+skills+and+knowledge+as+a+Frontend+Developer.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=F36A7B&width=1200&height=40&lines=👩‍+I'm+improving+my+skills+and+knowledge+as+a+Frontend+Developer.)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=13ABC4&width=1300&height=40&lines=🕴+I'm+deepening+my+knowledge+of+various+Frontend+technologies+while+also+continuing+to+explore+React+and+React+Native)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=F36A7B&width=1300&height=40&lines=🕴+I'm+deepening+my+knowledge+of+various+Frontend+technologies+while+also+continuing+to+explore+React+and+React+Native)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=F36A7B&width=1200&height=40&lines=🎩+I’m+looking+to+collaborate+on+interesting+projects+and+startups)
 
