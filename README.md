@@ -6,7 +6,7 @@
 
 ## 💫 About Me:
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=20&duration=8000&pause=400&color=2F89FC&width=750&height=60&lines=🎩+I'm+Habibe+BULUT) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=20&duration=8000&pause=400&color=2F89FC&width=750&height=60&lines=🎩+I'm+Habibe+BULUT) <br>
 🎈 I'm Frontend Developer especially interested in React and React Native <br>
 🎲 You can contact with me anytime you want. <br>
 🍁 I'd be happy to meet new developers and expand my network. <br>
