@@ -6,19 +6,16 @@
 
 ## 💫 About Me:
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=28&duration=8000&pause=400&color=2F89FC&width=750&height=100&lines=🎩+I'm+Habibe) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=24&duration=8000&pause=400&color=2F89FC&width=750&height=100&lines=🎩+I'm+Habibe) 
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=28&duration=6000&pause=10000&color=2F89FC&width=1100&height=90&lines=✨+I'm+Frontend+Developer+especially+interested+in+React+and+React+Native)
-
+✨ I'm Frontend Developer especially interested in React and React Native
+🌱 You can contact with me anytime you want. 
+🍀 I'd be happy to meet new developers and expand my network.
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=22&duration=6000&pause=30000&color=94FC13&width=1200&height=60&lines=📫+How+to+reach+me:👇🏻👇🏻👇🏻)
 <a> 🪧 habibe.ce1996@gmail.com </a> <br>
- 
-
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habibe-b-7427a4248/)
- </br>  </br><br><br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habibe-b-7427a4248/)
+ </br></br><br>
 
 
 ## 💻 Tech Stack:
