@@ -13,7 +13,7 @@
 🍁 I'd be happy to meet new developers and expand my network. <br>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=22&duration=6000&pause=30000&color=94FC13&width=1200&height=60&lines=📫+How+to+reach+me:👇🏻👇🏻👇🏻)  <br><br>
-<a> 🪧 habibe.ce1996@gmail.com </a> <br><br>
+<a href="🪧 mailto:habibe.ce1996@gmail.com"><img src="https://img.shields.io/badge/email-destek%40example.com-blue" alt="Mailto"></a> ></br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habibe-b-7427a4248/)
  </br></br><br>
 
