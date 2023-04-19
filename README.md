@@ -1,24 +1,19 @@
 
 <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="90px"/> <br> 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&center=true&duration=8000&pause=400&color=2F89FC&width=750&height=100&lines=I'm+Habibe+🌎) 
-
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=30&center=true&duration=6000&pause=10000&color=2F89FC&width=1100&height=90&lines=I'm+Frontend+Developer+especially+interested+in+React+and+React+Native)
-
-
-
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=9000&pause=1500&color=9AB3F5&width=900&height=90&lines=✨+Welcome+to+my+Github+Profile+✨) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&center=true&duration=9000&pause=1500&color=9AB3F5&width=900&height=90&lines=✨+Welcome+to+my+Github+Profile+✨) 
+ 
 
 ## 💫 About Me:
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=8758FF&width=1200&height=40&lines=👩‍+I'm+improving+my+skills+and+knowledge+as+a+Frontend+Developer.)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=8758FF&width=1300&height=40&lines=🕴+I+work+to+improve+my+knowledge+of+various+other+Frontend+technologies+while+also+continue+to+explore+React+and+React+Native)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=28&duration=8000&pause=400&color=2F89FC&width=750&height=100&lines=🎩+I'm+Habibe) 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=8758FF&width=1200&height=40&lines=🎩+I’m+looking+to+collaborate+on+interesting+projects+and+startups)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=28&duration=6000&pause=10000&color=2F89FC&width=1100&height=90&lines=✨+I'm+Frontend+Developer+especially+interested+in+React+and+React+Native)
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=22&duration=6000&pause=30000&color=94FC13&width=1200&height=60&lines=📫+How+to+reach+me:👇🏻👇🏻👇🏻)
-<a> 🪧 habibe.ce1996@gmail.com </a> <br><br><br>
+<a> 🪧 habibe.ce1996@gmail.com </a> <br>
  
 
 ## 🌐 Socials:
@@ -55,28 +50,18 @@
 
 
 <details>
-  <summary>More👇🏻</summary>
-
+ <summary>More👇🏻</summary>
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=habibecee&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=habibecee&theme=radical&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=habibecee&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+</details> <br><br><br>
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=habibecee&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) <br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=habibecee&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-</details> <br><br><br><br>
-
-
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inspiration+Code&size=21&duration=6000&pause=200&color=FFED00&width=550&height=45&lines=🧙+Have+a+good+day+🧙)
-<br><br>
