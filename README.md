@@ -4,12 +4,12 @@
 
 ## 💫 About Me:
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=20&duration=8000&pause=400&color=2F89FC&width=750&height=60&lines=🎩+I'm+Habibe+BULUT) <br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=8000&pause=400&color=2F89FC&width=750&height=60&lines=🎩+I'm+Habibe+BULUT) <br>
 🎈 I'm Frontend Developer especially interested in React and React Native <br>
 🎲 You can contact with me anytime you want. <br>
 🍁 I'd be happy to meet new developers and expand my network. <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=22&duration=6000&pause=30000&color=9384D1&width=1200&height=60&lines=📫+How+to+reach+me:)  <br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=9384D1&width=1200&height=60&lines=📫+How+to+reach+me:)  <br>
 <a href="mailto:habibe.ce1996@gmail.com"><img src="https://img.icons8.com/material-rounded/48/0000FF/new-post.png"/></a>
 <a href="https://www.linkedin.com/in/habibe-b-7427a4248/"><img src="https://img.icons8.com/color/48/0000FF/linkedin.png"/></a>
 
