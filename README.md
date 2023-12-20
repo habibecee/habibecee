@@ -11,7 +11,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=9384D1&width=1200&height=60&lines=📫+How+to+reach+me:)  <br>
 <a href="mailto:habibe.ce1996@gmail.com"><img src="https://img.icons8.com/material-rounded/48/0000FF/new-post.png"/></a>
-<a href="https://www.linkedin.com/in/habibe-b-7427a4248/"><img src="https://img.icons8.com/color/48/0000FF/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/habibe-bulut-7427a4248/"><img src="https://img.icons8.com/color/48/0000FF/linkedin.png"/></a>
 
   
 
